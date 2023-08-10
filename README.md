@@ -1,4 +1,5 @@
-                                                            Database_Project-2-2
+Database_Project-2-2
+
 📚 Elevate your library experience with our meticulously crafted Library Management System project, where technology seamlessly empowers administration and students alike. 🌐
 
 🔑 Immerse yourself in a database marvel that orchestrates a symphony of information. With distinct Admin and Student panels, we've woven a tapestry of efficiency.
